@@ -1,0 +1,29 @@
+- Text Wrapping for Long Titles
+- Featured Artists from YouTube Titles
+
+ERROR: File '/Users/name/Documents/videofm-beta/videofm-app/aoablack_top1_2024_12.mp4' already exists. Overwrite? [y/N]
+
+this should also be able to be done thru the app. remember when I said "Please use ur initiative to fix the other ones too (if they are any)."
+
+MY CLAUDE SONNET NEXT PROMPT ^^^
+
+- progress bar goas to half full when "extracting video clips". thats not even accurate. i feel like the progress bar could use work. progress bar should be a master global bar that shows progess for entire compilation
+
+
+
+/////
+
+Progress bar is still inaccurate. 
+
+
+scrolling in the terminal log also difficult when the program is running. it keeps teleporting to the most recent update
+
+preview button still doesnt work when the final video exists. i was getting "Cannot preview video: Video not yet created"
+
+file overwrite log not showing up
+
+- fix when log opens due to unnecessary ERROR logs
+
+- mention public last fm scrobble history in README
+
+- instead of y/n maybe just do filename(1) instead or filename_1 or smth
